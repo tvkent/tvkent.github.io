@@ -1,0 +1,16 @@
+# Site settings
+title: Tyler Kent
+header-img: img/home-bg.jpg
+email: tyler.kent@mail.utoronto.ca
+description: "Personal site for Tyler Kent"
+baseurl: ""
+url: "tvkent.github.io"
+twitter_username: tylervkent
+github_username:  tvkent
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
