@@ -5,7 +5,11 @@ description: "This is who I am"
 header-img: "img/rosie.jpg"
 ---
 
-<img style="float: right;" src="/img/tyler.jpg">
+<div style="float: left; padding-right: 25px; padding-bottom: 25px">
+	<a href="http://tvkent.github.io/img/suh.jpg"><img src="/img/snowtyler.jpg" alt="Tyler Kent" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+
+
 I'm currently a Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](wright.eeb.utoronto.ca).
 I started in September 2015 and am currently working on recombination patterns and evolution in *Capsella* species.  
 
