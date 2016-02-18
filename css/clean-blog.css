@@ -395,3 +395,17 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.left_figure {
+    display: inline-block;
+    float: left;
+}
+.right_figure {
+    display: inline-block;
+    float: right;
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+}

@@ -35,3 +35,7 @@ University of Toronto
 
 Learning Assistant, Principles of Ecology and Evolution    (Fall 2012)  
 University of California, Davis
+
+### Software
+
+[ANGSD-wrapper](http://github.com/mojaveazure/angsd-wrapper): scripts for analyzing next generation sequencing data using the program [ANGSD](http://popgen.dk/wiki/index.php/ANGSD).
