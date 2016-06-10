@@ -10,12 +10,12 @@ Intended as an informal journal club for all members of EEB to read and learn ab
 Papers are submitted each week to tyler (dot) kent (at) mail (dot) utoronto (dot) ca and are posted below.
 Occasionally when I'm not lazy, I will write up a blog post of our thoughts on a paper, or someone else will submit one.
 
-##June 2016
+## June 2016
 
-####June 7
+#### June 7
 [Farkas et al.](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(15)00004-X) How maladaptation can structure biodiversity: eco-evolutionary island biogeography.
 
-##May 2016
+## May 2016
 
-####May 31
+#### May 31
 [H. Allen Orr](https://paperpile.com/shared/TAxSJQ) Fitness and its role in evolutionary genetics.
