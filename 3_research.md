@@ -18,7 +18,7 @@ I'm currently working on a project exploring the genomic landscape of recombinat
 Meiotic recombination is believed to be the main benefit of sexual reproduction, and has been described by G. Ledyard Stebbins and others as the primary source shaping evolution.
 Recombination tends to localize to certain genomic regions, either targeted by _cis_-regulatory mechanisms or in regions of open chromatin, called hotspots, in which the average recombination rate is many times higher than the background rate.
 Despite being a fundmental source of variation, we know surprisingly little, especially in plants, about how and why rates of recombination vary within and between species.
-This lack of knowledge is partly due to the variation in rates and regulatory mechanisms among highly studied model speices, but is also due to the recent ability of mapping recombination at a fine scale.
+This lack of knowledge is partly due to the variation in rates and regulatory mechanisms among highly studied model species, but is also due to the recent ability of mapping recombination at a fine scale.
 The now tractable method of estimating population-scaled recombination rates along genomes using local linkage disequilibrium is enabling a much broader look at how these rates evolve in different species, where hotspots occur, and how hotspots are mediated.
 
 I'm using LD-based estimation to map recombination rates in several species of the genera _Arabidopsis_ and _Capsella_, in order to gain understanding into if and how these rates have evolved between species and genera.
