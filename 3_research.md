@@ -29,9 +29,9 @@ ___
 
 ### Linked Selection
 <div class="right_figure"><figure>
-        <img src="/img/linkedselection.png" alt="linked" style="float: right" width="400" hspace="25" vspace="25" />
+        <img src="/img/B.gif" alt="linked" style="float: right" width="400" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">Reduction in diversity near a selected site (from <a href="http://cooplab.github.io/popgen-notes/#the-effect-of-linked-selection-on-patterns-of-neutral-diversity">Graham Coop</a>)</font>
+                <font size="2">Reduction in diversity due to background selection with increasingly weaker selection in Capsella</font>
         </figcaption>
 </figure></div>
 

@@ -10,7 +10,15 @@ Intended as an informal journal club for all members of EEB to read and learn ab
 Papers are submitted each week to tyler (dot) kent (at) mail (dot) utoronto (dot) ca and are posted below.
 Occasionally when I'm not lazy, I will write up a blog post of our thoughts on a paper, or someone else will submit one.
 
+## July 2016
+
+#### July 5
+[Day et al.](https://paperpile.com/shared/J8yaVX) Is selection relevant in the evolutionary emergence of drug resistance?
+
 ## June 2016
+
+#### June 20
+[Massimo Pigilucci](http://www.nature.com/nrg/journal/v9/n1/pdf/nrg2278.pdf) Is evolvability evolvable?
 
 #### June 14
 [John H. Gillespie](https://paperpile.com/shared/RDgpbu) Is the population size of a species relevant to its evolution?
