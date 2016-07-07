@@ -31,7 +31,7 @@ ___
 <div class="right_figure"><figure>
         <img src="/img/B.gif" alt="linked" style="float: right" width="300" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">Reduction in diversity due to background selection with increasingly weaker selection in Capsella</font>
+                <font size="2">background selection effects with increasingly weaker selection</font>
         </figcaption>
 </figure></div>
 
