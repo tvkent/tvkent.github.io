@@ -32,9 +32,11 @@ College of Biological Sciences, University of California, Davis
 
 ### Presentations
 
-\textbf{Kent TV} and Wright SI \hfill{2016}\\ How does mating system affect linked selection in Capsella? [Poster](docs/tagcposter.pdf) at The Allied Genetics Conference, Orlando FL
+__Kent TV__ and Wright SI	(2016)  
+How does mating system affect linked selection in Capsella? [Poster](docs/tagcposter.pdf) at The Allied Genetics Conference, Orlando FL
 
-Durvasula A, \textbf{Kent TV}, Bhadra-Lobo S, Ross-Ibarra J \hfill{2014}\\ ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis [Poster](docs/awposter.pdf) at BAPG XI meeting, UC Davis
+Durvasula A, __Kent TV__, Bhadra-Lobo S, Ross-Ibarra J	(2014)  
+ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis [Poster](docs/awposter.pdf) at BAPG XI meeting, UC Davis
 
 ### Software
 
