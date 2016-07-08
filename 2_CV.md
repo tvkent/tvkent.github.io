@@ -12,12 +12,14 @@ ___
 ### Education  
 
 Ph.D., Ecology and Evolutionary Biology, University of Toronto (expected 2020)  
-Advisor: [Stephen Wright](wright.eeb.utoronto.ca)  
+Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)  
 
 B.S., Genetics and Genomics, University of California, Davis    (2015)  
 Minor in Statistics  
 
 ### Awards  
+
+School of Graduate Studies Conference Grant (2016)
 
 Competitive Offer Award    (2015)  
 Faculty of Arts and Science, University of Toronto  
@@ -28,13 +30,11 @@ University of Toronto
 Outstanding Performance Award    (2015)  
 College of Biological Sciences, University of California, Davis  
 
-### Teaching Experience  
+### Presentations
 
-Teaching Assistant, Adaptation and Biodiversity    (Fall 2015)  
-University of Toronto  
+\textbf{Kent TV} and Wright SI \hfill{2016}\\ How does mating system affect linked selection in Capsella? [Poster](docs/tagcposter.pdf) at The Allied Genetics Conference, Orlando FL
 
-Learning Assistant, Principles of Ecology and Evolution    (Fall 2012)  
-University of California, Davis
+Durvasula A, \textbf{Kent TV}, Bhadra-Lobo S, Ross-Ibarra J \hfill{2014}\\ ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis [Poster](docs/awposter.pdf) at BAPG XI meeting, UC Davis
 
 ### Software
 
