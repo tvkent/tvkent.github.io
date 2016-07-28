@@ -6,7 +6,7 @@ header-img: "img/rosie.jpg"
 ---
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<a href="http://tvkent.github.io/img/suh.jpg"><img src="/img/tyler2.jpg" height="10" alt="Tyler Kent" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+	<a href="http://tvkent.github.io/img/suh.jpg"><img src="/img/tyler2.jpg" width="250" alt="Tyler Kent" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 
 
