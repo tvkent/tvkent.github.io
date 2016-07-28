@@ -12,6 +12,12 @@ Occasionally when I'm not lazy, I will write up a blog post of our thoughts on a
 
 ## July 2016
 
+#### July 26
+[Ellegren and Galtier](https://paperpile.com/shared/rcSrJY) The Determinants of Genetic Diversity
+
+#### July 19
+[Worm and Paine](https://paperpile.com/shared/dLMJWz) Humans as a Hyperkeystone Species
+
 #### July 5
 [Day et al.](https://paperpile.com/shared/J8yaVX) Is selection relevant in the evolutionary emergence of drug resistance?
 
