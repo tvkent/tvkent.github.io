@@ -10,6 +10,11 @@ Intended as an informal journal club for all members of EEB to read and learn ab
 Papers are submitted each week to tyler (dot) kent (at) mail (dot) utoronto (dot) ca and are posted below.
 Occasionally when I'm not lazy, I will write up a blog post of our thoughts on a paper, or someone else will submit one.
 
+## August 2016
+
+#### August 2
+[Quentin Cronk](https://paperpile.com/view/43ae7f1e-ae0c-052a-8385-0ee25cc58735) Plant extinctions take time
+
 ## July 2016
 
 #### July 26
