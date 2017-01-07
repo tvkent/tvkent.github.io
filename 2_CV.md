@@ -19,6 +19,8 @@ Minor in Statistics
 
 ### Awards  
 
+EvSex16 Travel Award (2016)
+
 School of Graduate Studies Conference Grant (2016)
 
 Competitive Offer Award    (2015)  
@@ -31,6 +33,9 @@ Outstanding Performance Award    (2015)
 College of Biological Sciences, University of California, Davis  
 
 ### Presentations
+
+__Kent TV__ and Wright SI	(2016)
+Mutation load in a selfing allotetraploid. Talk at EvSex16, Tempe AZ
 
 __Kent TV__ and Wright SI	(2016)  
 How does mating system affect linked selection in Capsella? [Poster](docs/tagcposter.pdf) at The Allied Genetics Conference, Orlando FL
