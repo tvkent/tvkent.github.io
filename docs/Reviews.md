@@ -1,9 +1,3 @@
----
-layout: page
-title: "(Re)views"
-description: "A reviews-based journal club"
-header-img: "img/tdot.jpg"
----
 
 (Re)views, based on the format of [R.E.H.A.B.](http://www.rilab.org/rehab.html), meets Tuesdays at 4 pm at the University of Toronto GSU pub to discuss EEB-related review papers and share beer.
 Intended as an informal journal club for all members of EEB to read and learn about topics outside of their typical scope.
