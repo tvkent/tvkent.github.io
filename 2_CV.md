@@ -19,6 +19,8 @@ Minor in Statistics
 
 ### Awards  
 
+SMBE Registration Award (2017)
+
 EvSex16 Travel Award (2016)
 
 School of Graduate Studies Conference Grant (2016)
