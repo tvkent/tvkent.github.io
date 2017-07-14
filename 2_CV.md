@@ -25,7 +25,7 @@ EvSex16 Travel Award (2016)
 
 School of Graduate Studies Conference Grant (2016)
 
-Competitive Offer Award    (2015)  
+Faculty of Arts and Science Top (FAST) Doctoral Fellowship    (2015-2019)  
 Faculty of Arts and Science, University of Toronto  
 
 Department of Ecology and Evolutionary Biology Entrance Award    (2015)  
