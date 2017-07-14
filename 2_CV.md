@@ -36,7 +36,7 @@ College of Biological Sciences, University of California, Davis
 
 ### Presentations
 __Kent TV__, Wright SI, and the BMAP Consortium	(2017)
-Genome Evolution After Whole Genome Duplication in 32 Brassicales Species. [Poster](docs/smbeposter.pdf) at SMBE, Austin TX
+Genome Evolution After Whole Genome Duplication in 32 Brassicales Species. Poster at SMBE, Austin TX
 
 
 __Kent TV__ and Wright SI	(2016)
