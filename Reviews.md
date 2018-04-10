@@ -5,12 +5,30 @@ description: "A reviews-based journal club"
 header-img: "img/tdot.jpg"
 ---
 
-(Re)views, based on the format of [R.E.H.A.B.](http://www.rilab.org/rehab.html), meets Tuesdays at 4 pm at the University of Toronto GSU pub to discuss EEB-related review papers and share beer.
+(Re)views, based on the format of [R.E.H.A.B.](http://www.rilab.org/rehab.html), meets Tuesdays at 4 pm at the University of Toronto GSU pub to discuss EEB-related review papers and share "beverages".
 Intended as an informal journal club for all members of EEB to read and learn about topics outside of their typical scope.
 Papers are submitted each week to tyler (dot) kent (at) mail (dot) utoronto (dot) ca and are posted below.
 Occasionally when I'm not lazy, I will write up a blog post of our thoughts on a paper, or someone else will submit one.
 
+# (Re)Views is back for 2018!
+I'll be running this journal club again this summer, on alternating weeks with the student book club. See below for past papers, and send paper suggestions to my email (above).
+
+
+## September 2016
+
+#### September 6
+[Bertrand R. Jordan](http://www.genetics.org/content/genetics/203/4/1505.full.pdf) The Hiroshima/Nagasaki Survivor Studies: Discrepancies Between Results and General Perception
+
 ## August 2016
+
+#### August 30
+[Levis and Pfennig](https://doi.org/10.1016/j.tree.2016.03.012) Evaluating ‘Plasticity-First’ Evolution in Nature: Key Criteria and Empirical Approaches
+
+#### August 23
+[Alberdi et al.](http://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(16)30077-5) Do Vertebrate Gut Metagenomes Confer Rapid Ecological Adaptation?
+
+#### August 9
+[Michael Lynch](http://www.genetics.org/content/202/3/869) Mutation and Human Exceptionalism: Our Future Genetic Load
 
 #### August 2
 [Quentin Cronk](https://paperpile.com/view/43ae7f1e-ae0c-052a-8385-0ee25cc58735) Plant extinctions take time
