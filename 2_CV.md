@@ -5,7 +5,7 @@ description: "My experience in a page"
 header-img: "img/trilium.jpg"
 ---
 
-My full CV can be found here <a href="/docs/CV.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
@@ -17,31 +17,23 @@ Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)
 B.S., Genetics and Genomics, University of California, Davis    (2015)  
 Minor in Statistics  
 
-### Awards  
+### Scholarships and Fellowships
 
-SMBE Registration Award (2017)
+NSERC Postgraduate Scholarship--Doctoral (PGSD)    (2019-2020)
 
-EvSex16 Travel Award (2016)
-
-School of Graduate Studies Conference Grant (2016)
-
-Faculty of Arts and Science Top (FAST) Doctoral Fellowship    (2015-2019)  
+Faculty of Arts and Science Top (FAST) Doctoral Fellowship    (2015-2020)  
 Faculty of Arts and Science, University of Toronto  
 
-Department of Ecology and Evolutionary Biology Entrance Award    (2015)  
-University of Toronto  
-
-Outstanding Performance Award    (2015)  
-College of Biological Sciences, University of California, Davis  
-
 ### Presentations
+
+__Kent TV__, Wright SI, and the BMAP Consortium (2018)
+Genome Evolution After Whole Genome Duplication in 32 Brassicales Species. Talk at the Second Joint Congress on Evolution, Montpellier, France
 
 __Kent TV__, Wright SI, and the BMAP Consortium	(2017)
 Genome Evolution After Whole Genome Duplication in 32 Brassicales Species. Poster at Midwest PopGen, East Lansing, MI
 
 __Kent TV__, Wright SI, and the BMAP Consortium	(2017)
 Genome Evolution After Whole Genome Duplication in 32 Brassicales Species. Poster at SMBE, Austin TX
-
 
 __Kent TV__ and Wright SI	(2016)
 Mutation load in a selfing allotetraploid. Talk at EvSex16, Tempe AZ
