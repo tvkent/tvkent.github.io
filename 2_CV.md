@@ -5,7 +5,7 @@ description: "My experience in a page"
 header-img: "img/trilium.jpg"
 ---
 
-My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/docs/CV.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
