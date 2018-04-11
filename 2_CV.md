@@ -39,7 +39,7 @@ __Kent TV__ and Wright SI	(2016)
 Mutation load in a selfing allotetraploid. Talk at EvSex16, Tempe AZ
 
 __Kent TV__ and Wright SI	(2016)  
-How does mating system affect linked selection in Capsella? [Poster](docs/tagcposter.pdf) at The Allied Genetics Conference, Orlando FL
+How does mating system affect linked selection in Capsella? Poster at The Allied Genetics Conference, Orlando FL
 
 Durvasula A, __Kent TV__, Bhadra-Lobo S, Ross-Ibarra J	(2014)  
 ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis [Poster](docs/awposter.pdf) at BAPG XI meeting, UC Davis
