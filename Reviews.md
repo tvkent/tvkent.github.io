@@ -5,10 +5,9 @@ description: "A reviews-based journal club"
 header-img: "img/tdot.jpg"
 ---
 
-(Re)views, based on the format of [R.E.H.A.B.](http://www.rilab.org/rehab.html), meets Tuesdays at 4 pm at the University of Toronto GSU pub to discuss EEB-related review papers and share "beverages".
-Intended as an informal journal club for all members of EEB to read and learn about topics outside of their typical scope.
+(Re)views, based on the format of [R.E.H.A.B.](http://www.rilab.org/rehab.html), meets Tuesdays at 4 pm at the University of Toronto GSU pub to discuss EEB-related review papers and share "beverages". 
+Intended as an informal journal club for all members of EEB to read and learn about topics outside of their typical scope. 
 Papers are submitted each week to tyler (dot) kent (at) mail (dot) utoronto (dot) ca and are posted below.
-Occasionally when I'm not lazy, I will write up a blog post of our thoughts on a paper, or someone else will submit one.
 
 # (Re)Views is back for 2018!
 I'll be running this journal club again this summer, on alternating weeks with the student book club. See below for past papers, and send paper suggestions to my email (above).
