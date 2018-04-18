@@ -19,13 +19,11 @@ Minor in Statistics
 
 ### Fellowships and Awards
 
-NSERC Postgraduate Scholarship--Doctoral (PGSD)    (2019-2020)
+NSERC Postgraduate Scholarship--Doctoral (PGSD) (2019-2020)
 
-Faculty of Arts and Science Top (FAST) Doctoral Fellowship    (2015-2020)  
-University of Toronto  
+Faculty of Arts and Science Top (FAST) Doctoral Fellowship, University of Toronto (2015-2020)  
 
-Ramsay Wright Award Honourable Mention (2018)
-University of Toronto
+Ramsay Wright Award Honourable Mention, University of Toronto (2018)
 
 ### Presentations
 
