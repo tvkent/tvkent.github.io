@@ -17,12 +17,15 @@ Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)
 B.S., Genetics and Genomics, University of California, Davis    (2015)  
 Minor in Statistics  
 
-### Scholarships and Fellowships
+### Fellowships and Awards
 
 NSERC Postgraduate Scholarship--Doctoral (PGSD)    (2019-2020)
 
 Faculty of Arts and Science Top (FAST) Doctoral Fellowship    (2015-2020)  
-Faculty of Arts and Science, University of Toronto  
+University of Toronto  
+
+Ramsay Wright Award Honourable Mention (2018)
+University of Toronto
 
 ### Presentations
 
