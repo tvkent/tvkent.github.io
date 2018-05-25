@@ -5,6 +5,17 @@ description: "This is what I do"
 header-img: "img/screen.jpg"
 ---
 
+### Evolutionary Genomics of Major Transitions
+
+The majority of my research focuses on how genomes evolve after they transition in ploidy or in mating system, i.e. from diploidy to polyploidy or outcrossing to selfing.
+Major transitions on their own have been likened to sudden, large effect mutations, but this is a misleading analogy for several reasons.
+These can be understood by the fact that in both transitions, the entire genome is suddenly exposed to different selection pressures, as everything in the genome now has a new fitness level, including genes, regulatory pathways, and genome architecture.
+In addition to this new genomic environment to which and within which these species must now adapt, major transitions like these are also expected to result in shifts in major population genetic parameters, including mutation, recombination, selection, and gene flow, that determine how evolution proceeds.
+In light of these parameter shifts, the transition to selfing and diploidization effectively rewrite the rules of their evolution.
+
+Despite this, there are major gaps in our empirical understanding of how the mutation rate, the recombination rate and landscape, the strength and dynamics of selection, and their interactions evolve in selfers and polyploids.
+My research touches on all of these topics, with a particular focus on parameterizing these rates, and understanding their interactions in the forms of linked selection and introgression.
+
 ### Recombination Evolution
 
 <div class="left_figure"><figure>
@@ -14,16 +25,13 @@ header-img: "img/screen.jpg"
 	</figcaption>
 </figure></div>
 
-I'm currently working on a project exploring the genomic landscape of recombination hotspots across species of Brassicaceae.
-Meiotic recombination is believed to be the main benefit of sexual reproduction, and has been described by G. Ledyard Stebbins and others as the primary source shaping evolution.
-Recombination tends to localize to certain genomic regions, either targeted by _cis_-regulatory mechanisms or in regions of open chromatin, called hotspots, in which the average recombination rate is many times higher than the background rate.
+Meiotic recombination is a major population genetic parameter that determines the evolutionary dynamics in genomes, and has been described as the primary source shaping evolution (Stebbins 1950).
+Recombination tends to localize to certain genomic regions, which tend to be upstream of genes in regions of open chromatin in plants, where the average recombination rate is many times higher than the background rate.
 Despite being a fundmental source of variation, we know surprisingly little, especially in plants, about how and why rates of recombination vary within and between species.
-This lack of knowledge is partly due to the variation in rates and regulatory mechanisms among highly studied model species, but is also due to the recent ability of mapping recombination at a fine scale.
-The now tractable method of estimating population-scaled recombination rates along genomes using local linkage disequilibrium is enabling a much broader look at how these rates evolve in different species, where hotspots occur, and how hotspots are mediated.
+Additionally, recombination rates have been theorized to evolve differently in species with contrasting mating systems, and the genomic landscape of recombination may evolve in response to other genomic features like transposable elements.
+I'm interested in how recombination rates evolve and the factors that determine their genomic distribution within and among species, particularly between selfers and outcrossers and between diploids and polyploids.
 
-I'm using LD-based estimation to map recombination rates in several species of the genera _Arabidopsis_ and _Capsella_, in order to gain understanding into if and how these rates have evolved between species and genera.
-These genera also enable me to examine recombination patterns and rates as they may have changed in response to shifts in mating system, which is common in plants.
-With fine-scale maps, I can also ask how hotspots in these species may be mediated in comparison to other well-studied systems.
+Relevant papers: [Kent, Uzunovic, and Wright 2017 _Phil Trans_](https://doi.org/10.1098/rstb.2016.0458)
 
 ___
 
@@ -38,8 +46,7 @@ ___
 When genomic sites undergo positive or negative selection, the neutral sites surrounding them experience linked selection (known as selective sweeps and background selection, respectively).
 This results in a loss of neutral diversity near selected sites, with impacts depending on the strength of selection and the local recombination rate.
 Although many studies have investigated either selective sweeps or background selection, it has been difficult to investigate their joint impacts.
-The genome-wide reduction in diversity due to linked selection can not only impact the "evolutionary potential" of species, ignorance of its effects can greatly influence estimation of summary statistics.
-During my Ph.D., I plan to use the fine-scale recombination maps from the above project to begin an investigation of the genomic landscape of the effects of linked selection on neutral diversity, using recent advances in estimation [methods](http://http://arxiv.org/pdf/1408.5461.pdf).
+Additionally, in species with reduced recombination or efficacy of selection, the effects of linked selection can become more complicated, as selected sites begin to interfere with each other, and in polyploids, genomic redundancy could lead to lower or higher impacts of linked selection.
 
 ___
 
@@ -52,10 +59,11 @@ ___
         </figcaption>
 </figure></div>
 
-In collaboration with [Jeffrey Ross-Ibarra](http://rilab.org) and [Eric Fuchs](https://www.researchgate.net/profile/Eric_Fuchs), I'm investigating potential crop-wild introgression in the endangered wild rice _Oryza glumaepatula_ in Costa Rica.
-Crop-wild introgression is common in different species and can influence [local adaptation](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003477) and can cause hybrid swarms leading to wild species [extinction](http://www.ncbi.nlm.nih.gov/pubmed/16892969).
-Because wild species are an important source of genetic diversity for breeding crop species, it is important that we understand the potential risks they face from anthropogenic interference.
+I am generally interested in how gene flow and introgression influence and prevent adaptation, and in what shapes the genomic landscape of admixed ancestry.
+Admixed ancestry has the potential to be positively selected and influence the adaptation of species or act as deleterious mutational input that reinforces species boundaries.
+These opposing forces of selection, in combination with normally-occuring genomic processes like background selection can create similar patterns that are difficult to distinguish in genomic data.
+I have worked on projects investigating the role of introgression in evolution in selfing and outcrossing _Capsella_ species pairs, diploid and polyploid _Capsella_ species pairs, and wild and domesticated _Oryza_ species pairs.
 
-For this study, we collected wild individuals from populations in allopatry and sympatry with domesticated rice fields.
-We used whole genome sequencing and [ANGSD-wrapper](https://peerj.com/preprints/1472/) to calculate genome-wide diversity and admixture statistics, and performed differential gene expression analyses to determine the extent and effects of introgression.
-This work is on-going. 
+
+Relevant papers: [Sas et al. 2016 _Current Biology_ ](https://doi.org/10.1016/j.cub.2016.10.026)
+[Kryvokhyzha and Salcedo et al 2018 _bioRxiv_ ](https://doi.org/10.1101/234096)
