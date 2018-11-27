@@ -4,8 +4,7 @@ title: "CV"
 header-img: "img/trilium.jpg"
 ---
 
-You may email me to request a copy of my CV at tyler.kent <at> mail.utoronto.ca. 
-Some relevant information is below.
+My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.   
 
 ___
 
