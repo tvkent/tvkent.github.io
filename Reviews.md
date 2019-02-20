@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: "(Re)views"
 description: "A reviews-based journal club"
 header-img: "img/tdot.jpg"

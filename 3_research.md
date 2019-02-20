@@ -31,7 +31,7 @@ Despite being a fundmental source of variation, we know surprisingly little, esp
 Additionally, recombination rates have been theorized to evolve differently in species with contrasting mating systems, and the genomic landscape of recombination may evolve in response to other genomic features like transposable elements.
 I'm interested in how recombination rates evolve and the factors that determine their genomic distribution within and among species, particularly between selfers and outcrossers and between diploids and polyploids.
 
-Relevant papers: [Kent, Uzunovic, and Wright 2017 _Phil Trans_](https://doi.org/10.1098/rstb.2016.0458)
+Relevant papers: [Kent, Uzunovic, and Wright 2017 _Phil Trans Roy Soc B_](https://paperpile.com/shared/ifUB4H)
 
 ___
 
@@ -65,6 +65,6 @@ These opposing forces of selection, in combination with normally-occuring genomi
 I have worked on projects investigating the role of introgression in evolution in selfing and outcrossing _Capsella_ species pairs, diploid and polyploid _Capsella_ species pairs, and wild and domesticated _Oryza_ species pairs.
 
 
-Relevant papers: [Sas et al. 2016 _Current Biology_ ](https://doi.org/10.1016/j.cub.2016.10.026)
+Relevant papers: [Sas et al. 2016 _Current Biology_ ](https://paperpile.com/shared/GZqmlG)
 
-[Kryvokhyzha and Salcedo et al 2018 _bioRxiv_ ](https://doi.org/10.1101/234096)
+[Kryvokhyzha and Salcedo et al 2018 _PLoS Genetics_ ](https://paperpile.com/shared/7RUICs)
