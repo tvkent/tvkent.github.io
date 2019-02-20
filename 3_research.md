@@ -31,7 +31,7 @@ Despite being a fundmental source of variation, we know surprisingly little, esp
 Additionally, recombination rates have been theorized to evolve differently in species with contrasting mating systems, and the genomic landscape of recombination may evolve in response to other genomic features like transposable elements.
 I'm interested in how recombination rates evolve and the factors that determine their genomic distribution within and among species, particularly between selfers and outcrossers and between diploids and polyploids.
 
-Relevant papers: [Kent, Uzunovic, and Wright 2017 _Phil Trans Roy Soc B_](https://paperpile.com/shared/ifUB4H)
+Relevant papers: [Kent, Uzunović, and Wright 2017 _Phil Trans Roy Soc B_](https://paperpile.com/shared/ifUB4H)
 
 ___
 
