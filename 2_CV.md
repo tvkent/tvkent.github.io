@@ -20,6 +20,9 @@ Advisor: [Jeff Ross-Ibarra](https://rilab.og)
 ### Presentations
 
 __Kent TV__, Platts A, Wright SI, and the BMAP Consortium (2019)
+Conserved sequence evolution and polyploidy in 32 Brassicales genomes. Poster at SMBE, Manchester, England
+
+__Kent TV__, Platts A, Wright SI, and the BMAP Consortium (2019)
 Genome Evolution After Whole Genome Duplication in 32 Brassicales Species: Ghosts of Polyploidy Past. Talk at the Atwood Colloquium in Ecology and Evolutionary Biology, Toronto ON
 
 __Kent TV__, Platts A, Choi J, Wright SI, and the BMAP Consortium (2017, 2018)
