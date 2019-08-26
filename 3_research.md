@@ -7,11 +7,11 @@ header-img: "img/screen.jpg"
 
 ### Evolutionary Genomics of Major Transitions
 
-The majority of my research focuses on how genomes evolve after they transition in ploidy or in mating system, i.e. from diploidy to polyploidy or outcrossing to selfing.
-Major transitions on their own have been likened to sudden, large effect mutations, but this is a misleading analogy for several reasons.
+The majority of my research focuses on how genomes evolve after they transition in ploidy or in mating system, i.e. from diploidy to polyploidy or from outcrossing to selfing.
+Major transitions on their own have been likened to sudden large effect mutations, but this is a misleading analogy for several reasons.
 These can be understood by the fact that in both transitions, the entire genome is suddenly exposed to different selection pressures, as everything in the genome now has a new fitness level, including genes, regulatory pathways, and genome architecture.
-In addition to this new genomic environment to which and within which these species must now adapt, major transitions like these are also expected to result in shifts in major population genetic parameters, including mutation, recombination, selection, and gene flow, that determine how evolution proceeds.
-In light of these parameter shifts, the transition to selfing and diploidization effectively rewrite the rules of their evolution.
+In addition to this new genomic environment to which and within which these species must now adapt, major transitions like these are also expected to result in shifts in major population genetic parameters that determine how evolution proceeds, including mutation, recombination, selection, and gene flow.
+In light of these parameter shifts, the transition to selfing and diploidization effectively rewrite the rules of a species' evolution.
 
 Despite this, there are major gaps in our empirical understanding of how the mutation rate, the recombination rate and landscape, the strength and dynamics of selection, and their interactions evolve in selfers and polyploids.
 My research touches on all of these topics, with a particular focus on parameterizing these rates, and understanding their interactions in the forms of linked selection and introgression.
@@ -26,7 +26,7 @@ My research touches on all of these topics, with a particular focus on parameter
 </figure></div>
 
 Meiotic recombination is a major population genetic parameter that determines the evolutionary dynamics in genomes, and has been described as the primary source shaping evolution (Stebbins 1950).
-Recombination tends to localize to certain genomic regions, which tend to be upstream of genes in regions of open chromatin in plants, where the average recombination rate is many times higher than the background rate.
+Recombination tends to localize to certain genomic regions, which are often upstream of genes in regions of open chromatin in plants, where the average recombination rate is many times higher than the background rate.
 Despite being a fundmental source of variation, we know surprisingly little, especially in plants, about how and why rates of recombination vary within and between species.
 Additionally, recombination rates have been theorized to evolve differently in species with contrasting mating systems, and the genomic landscape of recombination may evolve in response to other genomic features like transposable elements.
 I'm interested in how recombination rates evolve and the factors that determine their genomic distribution within and among species, particularly between selfers and outcrossers and between diploids and polyploids.
