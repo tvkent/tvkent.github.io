@@ -10,7 +10,7 @@ ___
 
 ### Education  
 
-Ph.D., Ecology and Evolutionary Biology, University of Toronto (expected 2020)  
+Ph.D., Ecology and Evolutionary Biology, University of Toronto 2015-present  
 Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)  
 
 B.S., Genetics and Genomics, University of California, Davis    (2015)  
