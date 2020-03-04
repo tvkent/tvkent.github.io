@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-description: "This is what I do"
+description: ""
 header-img: "img/screen.jpg"
 ---
 
