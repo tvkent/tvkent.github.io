@@ -5,7 +5,7 @@ header-img: "img/rosie.jpg"
 ---
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/tyler2.jpg" width="450" alt="Tyler Kent"/></a>
+	<img src="/img/tyler2.jpg" width="450" alt="Tyler Kent"/>
 </div>
 
 
