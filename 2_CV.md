@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-header-img: "img/trilium.jpg"
+header-img: "img/edin.jpg"
 ---
 
 My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.   
