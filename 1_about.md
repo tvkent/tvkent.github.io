@@ -5,11 +5,11 @@ header-img: "img/rosie.jpg"
 ---
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<a href="http://tvkent.github.io/img/suh.jpg"><img src="/img/tyler2.jpg" width="450" alt="Tyler Kent" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+	<img src="/img/tyler2.jpg" width="450" alt="Tyler Kent"/></a>
 </div>
 
 
-I'm currently a Ph.D. student in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](http://wright.eeb.utoronto.ca).
+I'm currently a Ph.D. candidate in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](http://wright.eeb.utoronto.ca).
 I started in 2015, working on my thesis on the evolution of mutation, selection, and recombination following major transitions in the Brassicaceae, as well as several projects involving introgression in the *Capsella* genus.  
 
 I received my B.S. in Genetics and Genomics with a minor in Statistics from the University of California, Davis in 2015.
