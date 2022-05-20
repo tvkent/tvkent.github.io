@@ -16,6 +16,8 @@ In light of these parameter shifts, the transition to selfing and diploidization
 Despite this, there are major gaps in our empirical understanding of how the mutation rate, the recombination rate and landscape, the strength and dynamics of selection, and their interactions evolve in selfers and polyploids.
 My research touches on all of these topics, with a particular focus on parameterizing these rates, and understanding their interactions in the forms of linked selection and introgression.
 
+___
+
 ### Recombination Evolution
 
 <div class="left_figure"><figure>
@@ -29,9 +31,27 @@ Meiotic recombination is a major population genetic parameter that determines th
 Recombination tends to localize to certain genomic regions, which are often upstream of genes in regions of open chromatin in plants, where the average recombination rate is many times higher than the background rate.
 Despite being a fundmental source of variation, we know surprisingly little, especially in plants, about how and why rates of recombination vary within and between species.
 Additionally, recombination rates have been theorized to evolve differently in species with contrasting mating systems, and the genomic landscape of recombination may evolve in response to other genomic features like transposable elements.
-I'm interested in how recombination rates evolve and the factors that determine their genomic distribution within and among species, particularly between selfers and outcrossers and between diploids and polyploids.
+I'm interested in how recombination rates evolve and the factors that determine their genomic distribution within and among species, and how the recombination landscapes of genomes determine how evolution proceeds.
 
 Relevant papers: [Kent, Uzunović, and Wright 2017 _Phil Trans Roy Soc B_](https://paperpile.com/shared/ifUB4H)
+
+___
+
+### Introgression
+
+<div class="left_figure"><figure>
+	<img src="/img/rice.png" alt="Rice" style="float: left" width="450" hspace="25" vspace="25" />
+	<figcaption>
+		<font size="2">Nucleotide diversity along a chromosome of rice</font>
+	</figcaption>
+</figure></div>
+
+I am generally interested in how gene flow and introgression influence and prevent adaptation, and in what shapes the genomic landscape of admixed ancestry.
+Admixed ancestry has the potential to be positively selected and influence the adaptation of species or act as deleterious mutational input that reinforces species boundaries.
+These opposing forces of selection, in combination with normally-occuring genomic processes like background selection can create similar patterns that are difficult to distinguish in genomic data.
+Additionally, what determines where in the genome gene flow can leak through species boundaries and persist is dependent on the genomic architecture of selected sites and their correlation with recombination at fine and broad scales in complex and fascinating ways.
+In my work, I aim to untangle the roles of recombination, selection, and genome structure in driving patterns of introgression using empirical data and simulations.
+I have worked on projects investigating the role of introgression in evolution in selfing and outcrossing _Capsella_ species pairs, diploid and polyploid _Capsella_ species pairs, and wild and domesticated _Oryza_ species pairs.
 
 ___
 
@@ -39,7 +59,7 @@ ___
 <div class="right_figure"><figure>
         <img src="/img/B.gif" alt="linked" style="float: right" width="300" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">background selection effects with increasingly weaker selection</font>
+                <font size="2">genome structure determines how background selection erases genetic variation</font>
         </figcaption>
 </figure></div>
 
@@ -47,24 +67,4 @@ When genomic sites undergo positive or negative selection, the neutral sites sur
 This results in a loss of neutral diversity near selected sites, with impacts depending on the strength of selection and the local recombination rate.
 Although many studies have investigated either selective sweeps or background selection, it has been difficult to investigate their joint impacts.
 Additionally, in species with reduced recombination or efficacy of selection, the effects of linked selection can become more complicated, as selected sites begin to interfere with each other, and in polyploids, genomic redundancy could lead to lower or higher impacts of linked selection.
-
-___
-
-### Introgression
-
-<div class="left_figure"><figure>
-        <img src="/img/rice.png" alt="Rice" style="float: left" width="450" hspace="25" vspace="25" />
-        <figcaption>
-                <font size="2">Nucleotide diversity along a chromosome of rice</font>
-        </figcaption>
-</figure></div>
-
-I am generally interested in how gene flow and introgression influence and prevent adaptation, and in what shapes the genomic landscape of admixed ancestry.
-Admixed ancestry has the potential to be positively selected and influence the adaptation of species or act as deleterious mutational input that reinforces species boundaries.
-These opposing forces of selection, in combination with normally-occuring genomic processes like background selection can create similar patterns that are difficult to distinguish in genomic data.
-I have worked on projects investigating the role of introgression in evolution in selfing and outcrossing _Capsella_ species pairs, diploid and polyploid _Capsella_ species pairs, and wild and domesticated _Oryza_ species pairs.
-
-
-Relevant papers: [Sas et al. 2016 _Current Biology_ ](https://paperpile.com/shared/GZqmlG)
-
-[Kryvokhyzha and Salcedo et al 2018 _PLoS Genetics_ ](https://paperpile.com/shared/7RUICs)
+I'm interested in parameterizing the joint effects of linked selection in a comparative context, to better understand how the diversity of genome size and structure alters our expectations.
