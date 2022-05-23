@@ -5,16 +5,13 @@ description: ""
 header-img: "img/screen.jpg"
 ---
 
-### Evolutionary Genomics of Major Transitions
-
-The majority of my research focuses on how genomes evolve after they transition in ploidy or in mating system, i.e. from diploidy to polyploidy or from outcrossing to selfing.
-Major transitions on their own have been likened to sudden large effect mutations, but this is a misleading analogy for several reasons.
-These can be understood by the fact that in both transitions, the entire genome is suddenly exposed to different selection pressures, as everything in the genome now has a new fitness level, including genes, regulatory pathways, and genome architecture.
-In addition to this new genomic environment to which and within which these species must now adapt, major transitions like these are also expected to result in shifts in major population genetic parameters that determine how evolution proceeds, including mutation, recombination, selection, and gene flow.
-In light of these parameter shifts, the transition to selfing and diploidization effectively rewrite the rules of a species' evolution.
-
-Despite this, there are major gaps in our empirical understanding of how the mutation rate, the recombination rate and landscape, the strength and dynamics of selection, and their interactions evolve in selfers and polyploids.
-My research touches on all of these topics, with a particular focus on parameterizing these rates, and understanding their interactions in the forms of linked selection and introgression.
+### Genomic contingencies in evolution
+The majority of my research focuses on how genomes themselves evolve and in turn how their structure influences evolution at the organismal level.
+Processes and phenomena like the efficacy of natural selection, the spread of selfish genetic elements, and the leakiness of species boundaries are influenced at the most basic level by structural traits like linkage between loci, where and how often chromosomes recombine, and the fitness consequences of rearranging local structure.
+Genomes themselves are in constant flux, undergoing point and structural mutation, translocating parts of chromosomes, doubling themselves in whole or in part, and fighting back and corralling selfish elements.
+I'm fascinated by this dynamic genomic world and how evolution at this level can influence the fitness and evolution of the organism that same genome encodes.
+In much of my doctoral work, I've made use of major transitions in ploidy and mating system, where we may expect changes in fundamental traits like rates of mutation and recombination, the distribution of fitness effects, and the efficacy of selection to change the rules of evolution, to address some of the questions below in a comparative framework.
+Below I briefly cover some of the topics I've chosen to pursue under this general interest of genomic structure and contingency in evolution.
 
 ___
 
@@ -52,6 +49,9 @@ These opposing forces of selection, in combination with normally-occuring genomi
 Additionally, what determines where in the genome gene flow can leak through species boundaries and persist is dependent on the genomic architecture of selected sites and their correlation with recombination at fine and broad scales in complex and fascinating ways.
 In my work, I aim to untangle the roles of recombination, selection, and genome structure in driving patterns of introgression using empirical data and simulations.
 I have worked on projects investigating the role of introgression in evolution in selfing and outcrossing _Capsella_ species pairs, diploid and polyploid _Capsella_ species pairs, and wild and domesticated _Oryza_ species pairs.
+
+Relevant papers: [Sas et al. 2016 _Current Biology_ ](https://paperpile.com/shared/GZqmlG)
+[Kryvokhyzha and Salcedo et al 2018 _PLoS Genetics_ ](https://paperpile.com/shared/7RUICs)
 
 ___
 
