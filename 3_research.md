@@ -37,9 +37,9 @@ ___
 ### Introgression
 
 <div class="left_figure"><figure>
-	<img src="/img/rice.png" alt="Rice" style="float: left" width="450" hspace="25" vspace="25" />
+	<img src="/img/introg_thumbnail.png" alt="introg" style="float: left" width="300" hspace="25" vspace="25" />
 	<figcaption>
-		<font size="2">Nucleotide diversity along a chromosome of rice</font>
+		<font size="2">Introgression is deleterious between <i> Capsella </i> species</font>
 	</figcaption>
 </figure></div>
 
@@ -51,6 +51,7 @@ In my work, I aim to untangle the roles of recombination, selection, and genome 
 I have worked on projects investigating the role of introgression in evolution in selfing and outcrossing _Capsella_ species pairs, diploid and polyploid _Capsella_ species pairs, and wild and domesticated _Oryza_ species pairs.
 
 Relevant papers: [Sas et al. 2016 _Current Biology_ ](https://paperpile.com/shared/GZqmlG)
+
 [Kryvokhyzha and Salcedo et al 2018 _PLoS Genetics_ ](https://paperpile.com/shared/7RUICs)
 
 ___
@@ -59,7 +60,7 @@ ___
 <div class="right_figure"><figure>
         <img src="/img/B.gif" alt="linked" style="float: right" width="300" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">genome structure determines how background selection erases genetic variation</font>
+                <font size="2"> background selection erases genetic variation </font>
         </figcaption>
 </figure></div>
 
