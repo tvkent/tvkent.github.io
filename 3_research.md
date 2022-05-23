@@ -17,7 +17,7 @@ ___
 
 ### Recombination Evolution
 
-<div class="left_figure"><figure>
+<div class="right_figure"><figure>
 	<img src="/img/cap2.jpg" alt="Capsella" style="float: left" width="250" hspace="25" vspace="25" />
 	<figcaption>
 		<font size="2"><i>Capsella bursa-pastoris</i></font>
