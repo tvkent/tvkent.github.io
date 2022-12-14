@@ -15,7 +15,7 @@ Advisors: [Daniel Matute](http://www.dm-incompatibilities.org/index.html) and [D
 
 ### Education  
 
-Ph.D., Ecology and Evolutionary Biology, University of Toronto (2023)  
+Ph.D., Ecology and Evolutionary Biology, University of Toronto (defence Jan 2023)  
 Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)  
 
 B.S., Genetics and Genomics, University of California, Davis    (2015)  
