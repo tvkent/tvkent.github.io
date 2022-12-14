@@ -9,10 +9,3 @@ You can also follow the links at the bottom of any page to find my GitHub and my
 
 ___  
 
-Department of Ecology and Evolutionary Biology  
-University of Toronto  
-25 Willcocks St.    
-Toronto ON  
-M5S 3B2
-
-

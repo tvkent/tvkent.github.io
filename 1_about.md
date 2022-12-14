@@ -8,11 +8,10 @@ header-img: "img/rosie-1.jpg"
 	<img src="/img/tyler22.jpg" width="500" alt="Tyler Kent"/>
 </div>
 
+I am an evolutionary geneticist studying genome evolution and its consequences across species.
+I'm currently a Postdoctoral Research Associate at the University of North Carolina at Chapel Hill, working with [Daniel Matute](http://www.dm-incompatibilities.org/index.html) and [Dan Schrider](https://www.schriderlab.org/) in *Aedes* genomics.
+Since 2021, I have been a visiting researcher in the [Whitlock Lab](https://www.zoology.ubc.ca/~whitlock/) at the UBC Biodiversity Research Centre.
 
-I'm currently a Ph.D. candidate in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](http://wright.eeb.utoronto.ca).
-I started in 2015, working on my thesis on the evolution of mutation, selection, and recombination following major transitions in the Brassicaceae, as well as several projects involving introgression in the *Capsella* genus.
-As of 2021, I am visiting in the Whitlock Lab at the UBC Biodiversity Research Centre.  
-
-I received my B.S. in Genetics and Genomics with a minor in Statistics from the University of California, Davis in 2015.
-There I worked in the [Ross-Ibarra lab](http://www.rilab.org) contributing to research on genome size evolution, [scripts](https://github.com/mojaveazure/angsd-wrapper) to improve population genomic software, and crop-wild introgression in *Oryza*.
+I did my Ph.D. in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](http://wright.eeb.utoronto.ca), studying the genomic consequences of plant genome structure.
+I received my B.S. in Genetics and Genomics with a minor in Statistics from the University of California, Davis in 2015, where I worked in the [Ross-Ibarra lab](http://www.rilab.org).
 

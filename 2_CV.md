@@ -8,9 +8,14 @@ My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa
 
 ___
 
+### Academic Employment
+
+Postdoctoral Research Associate, University of North Carolina at Chapel Hill 2022-present  
+Advisors: [Daniel Matute](http://www.dm-incompatibilities.org/index.html) and [Dan Schrider](https://www.schriderlab.org/)  
+
 ### Education  
 
-Ph.D., Ecology and Evolutionary Biology, University of Toronto 2015-present  
+Ph.D., Ecology and Evolutionary Biology, University of Toronto (2023)  
 Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)  
 
 B.S., Genetics and Genomics, University of California, Davis    (2015)  
@@ -18,6 +23,12 @@ Minor in Statistics
 Advisor: [Jeff Ross-Ibarra](https://rilab.og)
 
 ### Presentations
+
+__Kent TV__, Brandvain Y, and Wright SI (2022)
+Genome structure drives the landscape of introgression from selfing into outcrossing *Capsella*. Talk at Evolution (virtual) and ESEB, Prague CZ
+
+__Kent TV__, Platts A, Wright SI, and the BMAP Consortium (cancelled due to Covid19)
+Repeated polyploidization in the Brassicaceae drive both independent and convergent responses of selection and genome architecture. Talk at SMBE, Quebec City QC
 
 __Kent TV__, Platts A, Wright SI, and the BMAP Consortium (2019)
 Conserved sequence evolution and polyploidy in 32 Brassicales genomes. Poster at SMBE, Manchester, England

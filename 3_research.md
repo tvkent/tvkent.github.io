@@ -11,6 +11,7 @@ Processes and phenomena like the efficacy of natural selection, the spread of se
 Genomes themselves are in constant flux, undergoing point and structural mutation, translocating parts of chromosomes, doubling themselves in whole or in part, and fighting back and corralling selfish elements.
 I'm fascinated by this dynamic genomic world and how evolution at this level can influence the fitness and evolution of the organism that same genome encodes.
 In much of my doctoral work, I've made use of major transitions in ploidy and mating system, where we may expect changes in fundamental traits like rates of mutation and recombination, the distribution of fitness effects, and the efficacy of selection to change the rules of evolution, to address some of the questions below in a comparative framework.
+In my postdoc, I'm exploring the impacts of demography and selection on genetic diversity and the efficacy of selection in *Aedes*.
 Below I briefly cover some of the topics I've chosen to pursue under this general interest of genomic structure and contingency in evolution.
 
 ___
