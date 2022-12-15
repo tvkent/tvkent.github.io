@@ -19,14 +19,21 @@ Durvasula A\*, Hoffman P\*, __Kent TV__, Liu C, Kono T, Morrell P, Ross-Ibarra J
 ### Publications in prep
 
 __Kent TV__, Brandvain Y, Wright SI.
+
 Genome structure shapes patterns of introgression from _Capsella rubella_ to _Capsella grandiflora_
+
 
 __Kent TV__\*, Platts AE\*, Edger PP\*, Choi JY, Zhao T, Maumus F, Washburn J, Shu S, An H, MayfieldJones D, Blanchette M, Bird KA, Dismukes W, Abrahams RS, Mummenhoff K, Berry K, Goodstein
 DM, Yoshinga Y, Daum C, Spunde A, Davidson P, Oakgrove K, Peng Y, Phillips J, Kudrna D, Talag J,
 Mabry ME, Al-Shehbaz I, Cappa JJ, Purugganan M, Pilon-Smits EA, Pepper AE, Schranz ME, Schmutz
 J, Weigel D, Mitchell-Olds T, Hall J, Koch MA, Wing RA, Pires JC, Wright SI.
+
 Comparative genomics of whole genome duplication in 32 species of the Brassicales
 
+
 __Kent TV__, Wright SI.
+
 Patterns of diversity and linked selection in Rumex hastatulus
+
+
 \* these authors contributed equally
