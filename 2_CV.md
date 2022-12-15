@@ -10,7 +10,7 @@ ___
 
 ### Publications
 
-Publications can be found [here](tvkent.github.io/4_publications.html)
+Publications can be found [here](4_publications.html)
 
 ### Academic Employment
 
