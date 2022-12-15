@@ -8,6 +8,10 @@ My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa
 
 ___
 
+### Publications
+
+Publications can be found [here](tvkent.github.io/4_publications.html)
+
 ### Academic Employment
 
 Postdoctoral Research Associate, University of North Carolina at Chapel Hill 2022-present  
