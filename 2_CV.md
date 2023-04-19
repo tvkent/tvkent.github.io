@@ -28,6 +28,9 @@ Advisor: [Jeff Ross-Ibarra](https://rilab.og)
 
 ### Presentations
 
+__Kent TV__, Brandvain Y, and Wright SI (2023)
+Genome structure drives the landscape of introgression from selfing into outcrossing *Capsella*. Talk at Evo-WIBO, Fort Worden WA
+
 __Kent TV__, Brandvain Y, and Wright SI (2022)
 Genome structure drives the landscape of introgression from selfing into outcrossing *Capsella*. Talk at Evolution (virtual) and ESEB, Prague CZ
 
