@@ -7,6 +7,8 @@ header-img: "img/greenhouse.jpg"
 Paywall-free PDFs for papers are available at the links below.
 All publications can be found on [scholar](https://scholar.google.com/citations?user=Yphj-pQAAAAJ&hl=en)
 
+__Kent TV__, Schrider DR, Matute DR (2024) [Demographic history and the efficacy of selection in the globally invasive mosquito _Aedes aegypti_](https://www.biorxiv.org/content/10.1101/2024.03.07.584008v1.full.pdf) _bioRxiv_
+
 Kryvokhyzha D\*, Salcedo A\*, Eriksson MC, Duan T, Tawari N, Chen J, Guerrina M, Kreiner JM, __Kent TV__, Lagercrantz U, Stinchcombe JR, Glémin S, Wright SI, Lascoux M (2019) [Parental legacy, demography, and admixture influenced the evolution of the two subgenomes of the tetraploid _Capsella bursa-pastoris_ (Brassicaceae)](https://paperpile.com/shared/BcxE1S) _PLoS Genetics_
 
 __Kent TV__\*, Uzunović J\*, Wright SI. (2017) [Coevolution of Recombination and Transposable Elements](https://paperpile.com/shared/wp7CoH) _Philosophical Transactions of the Royal Society B_  
