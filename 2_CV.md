@@ -28,6 +28,9 @@ Advisor: [Jeff Ross-Ibarra](https://rilab.og)
 
 ### Presentations
 
+__Kent TV__, Schrider DR, and Matute DR (2024)
+Demographic history and the efficacy of selection in the globally invasive mosquito *Aedes aegypti*. Poster at TAGC, Washington DC
+
 __Kent TV__, Brandvain Y, and Wright SI (2023)
 Genome structure drives the landscape of introgression from selfing into outcrossing *Capsella*. Talk at Evo-WIBO, Fort Worden WA
 
