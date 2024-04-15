@@ -9,7 +9,7 @@ header-img: "img/rosie-1.jpg"
 </div>
 
 I am an evolutionary geneticist studying genome evolution and its consequences across species.
-I'm currently a Postdoctoral Research Associate at the University of North Carolina at Chapel Hill, working with [Daniel Matute](http://www.dm-incompatibilities.org/index.html) and [Dan Schrider](https://www.schriderlab.org/) in *Aedes* genomics.
+I'm currently a Postdoctoral Research Associate at the University of North Carolina at Chapel Hill, working with [Daniel Matute](http://www.dm-incompatibilities.org/index.html) and [Dan Schrider](https://www.schriderlab.org/) in *Aedes* and *Drosophila* evolutionary genomics.
 Since 2021, I have been a visiting researcher in the [Whitlock Lab](https://www.zoology.ubc.ca/~whitlock/) at the UBC Biodiversity Research Centre.
 
 I did my Ph.D. in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](http://wright.eeb.utoronto.ca), studying the genomic consequences of plant genome structure.
