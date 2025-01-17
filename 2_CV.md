@@ -14,8 +14,11 @@ Publications can be found [here](4_publications.html)
 
 ### Academic Employment
 
-Postdoctoral Research Associate, University of North Carolina at Chapel Hill 2022-present  
-Advisors: [Daniel Matute](http://www.dm-incompatibilities.org/index.html) and [Dan Schrider](https://www.schriderlab.org/)  
+Postdoctoral Scholar, University of Chicago Jul 2024-present
+Advisor: [Carl Veller](https://www.carlveller.com/)
+
+Postdoctoral Research Associate, University of North Carolina at Chapel Hill Nov 2022-Jun 2024  
+Advisors: Daniel Matute and [Dan Schrider](https://www.schriderlab.org/)  
 
 ### Education  
 
