@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://tvkent.github.io"
 #twitter_username: tylervkent
 #github_username:  tvkent
-theme: academic-jekyll-theme
+remote_theme: academic-jekyll-theme
 
 # Google Analytics
 google_tracking_id: UA-81468422-1
