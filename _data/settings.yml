@@ -1,0 +1,13 @@
+menu:
+- {name: 'publications', url: '/publications'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+social:
+- {icon: 'google-scholar', link: 'https://scholar.google.ca/citations?user=V6UlwGAAAAAJ&hl=en'}
+- {icon: 'github', link: 'https://github.com/tvkent'}
+- {icon: 'bluesky', link: 'https://bsky.app/profile/tylervkent.bsky.social'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/tvkent'}
+
+contacts:
+- {name: 'Dr. Tyler V. Kent', title: 'Postdoctoral Scholar', department: 'Ecology & Evolution', institution: 'University of Chicago', institution_address: '1101 East 57th Street. <br> Chicago, IL 60637', email: 'tvkent@uchicago.edu'}

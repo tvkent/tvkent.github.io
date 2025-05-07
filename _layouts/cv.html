@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5 d-inline-flex align-items-center">
+         Curriculum Vitae
+     <a href="/cv/cv.pdf" target="_blank" title="Download CV" class="ms-2">
+      <i class="fas fa-file-pdf fa-lg"></i>
+     </a>
+    </h3>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Academic Employment</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.academic_employment %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <p>Advisor: {{ section.advisor }}</p>
+          <br>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Education</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.education %}
+          <div style="margin-bottom: 20px;">
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+          <p>Advisor: {{ section.advisor }}</p>
+          <br>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
