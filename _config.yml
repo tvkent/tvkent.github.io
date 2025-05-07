@@ -1,20 +1,9 @@
 # Site settings
 title: Tyler Kent
-#header-img: img/cap1.jpg
-#email: tyler.kent@mail.utoronto.ca
 description: "evolutionary genetics"
 baseurl: ""
 url: "http://tvkent.github.io"
-#twitter_username: tylervkent
-#github_username:  tvkent
-theme: academic-jekyll-theme
 
 # Google Analytics
 google_tracking_id: UA-81468422-1
 
-# Build settings
-#markdown: kramdown
-#highlighter: rouge
-#paginate: 5
-#exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-#gems: [jekyll-paginate, jekyll-feed]
