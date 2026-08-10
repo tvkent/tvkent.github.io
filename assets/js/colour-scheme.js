@@ -5,7 +5,6 @@ DarkReader.setFetchMethod(url => {
 });
 
 function darkModeEnabled() {
-  // Use localStorage if user has manually toggled, otherwise follow OS setting
   const stored = localStorage.getItem('darkMode');
   if (stored !== null) return stored === 'true';
   return window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -28,3 +27,11 @@ function toggleDarkMode() {
     DarkReader.enable({ brightness: 100, contrast: 90 });
   }
 }
+
+// When OS setting changes, clear localStorage so OS takes back control
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+  localStorage.removeItem('darkMode');
+  e.matches ? DarkReader.enable({ brightness: 100, contrast: 90 }) : DarkReader.disable();
+});
+
+document.addEventListener('DOMContentLoaded', checkDarkMode);
