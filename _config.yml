@@ -18,3 +18,5 @@ google_tracking_id: UA-81468422-1
 #paginate: 5
 #exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 #gems: [jekyll-paginate, jekyll-feed]
+plugins:
+  - jekyll-remote-theme
