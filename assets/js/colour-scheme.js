@@ -34,4 +34,4 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e =
   e.matches ? DarkReader.enable({ brightness: 100, contrast: 90 }) : DarkReader.disable();
 });
 
-document.addEventListener('DOMContentLoaded', checkDarkMode);
+checkDarkMode();
