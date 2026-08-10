@@ -1,37 +1,30 @@
-// Setup darkreader for CORS
 DarkReader.setFetchMethod(url => {
-  let headers = new Headers()
-  headers.append('Access-Control-Allow-Origin', '*')
+  let headers = new Headers();
+  headers.append('Access-Control-Allow-Origin', '*');
+  return window.fetch(url, { headers, mode: 'no-cors' });
+});
 
-  return window.fetch(url, {
-    headers,
-    mode: 'no-cors',
-  })
-})
+function darkModeEnabled() {
+  // Use localStorage if user has manually toggled, otherwise follow OS setting
+  const stored = localStorage.getItem('darkMode');
+  if (stored !== null) return stored === 'true';
+  return window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
 
-// set color mode on page load
 function checkDarkMode() {
   if (darkModeEnabled()) {
-    DarkReader.enable();
+    DarkReader.enable({ brightness: 100, contrast: 90 });
   } else {
     DarkReader.disable();
   }
-
-  }
-
+}
 
 function toggleDarkMode() {
   if (darkModeEnabled()) {
-    disableDarkMode();
+    localStorage.setItem('darkMode', 'false');
+    DarkReader.disable();
   } else {
-    enableDarkMode();
+    localStorage.setItem('darkMode', 'true');
+    DarkReader.enable({ brightness: 100, contrast: 90 });
   }
-}
-
-function enableDarkMode() {
-  DarkReader.enable();
-}
-
-function disableDarkMode() {
-  DarkReader.disable();
 }
