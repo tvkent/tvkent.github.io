@@ -1,4 +1,4 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gem "academic-jekyll-theme"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
